@@ -1,0 +1,26 @@
+{
+  "name": "file-mq",
+  "version": "0.0.1",
+  "description": "sending file useing zmq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HussamQaza/file-0mq.git"
+  },
+  "keywords": [
+    "zeromq",
+    "nodejs",
+    "file",
+    "file",
+    "transfer"
+  ],
+  "author": "hussam alqaza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HussamQaza/file-0mq/issues"
+  },
+  "homepage": "https://github.com/HussamQaza/file-0mq#readme"
+}
